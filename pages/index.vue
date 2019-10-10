@@ -13,11 +13,11 @@
         <form action method="post" data-netlify="true" netlify="true" netlify-honeypot="bot-field">
           <p>
             <label for="name">Your Name</label>
-            <input type="text" name id />
+            <input type="text" name="name" id />
           </p>
           <p>
-            <label for="name">Your Name</label>
-            <input type="text" name id />
+            <label for="name">Your email</label>
+            <input type="text" name="email" id />
           </p>
           <p>
             <label for="name">Your email</label>
@@ -25,7 +25,7 @@
           </p>
           <p>
             <label for="name">Your Phone</label>
-            <input type="text" name id />
+            <input type="text" name="phone" id />
           </p>
           <p>
             <input type="submit" value="Submit" name id />
